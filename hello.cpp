@@ -10,7 +10,8 @@ int main(int argc, char** argv) {
 	cin>>yourName;
 	
 	cout<<endl<< "Hello, "<<yourName<<endl<<endl;
-	cout<<"Press c and then Enter to continue...";
+	cout<<endl<< "Have a Good Day"<<endl<<endl;
+	cout<<"Press Any Key (Not Enter) and then Enter to continue...";
 	
 	char justWait;
 	cin>>justWait;
